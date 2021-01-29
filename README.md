@@ -1,3 +1,3 @@
-# flipkod-oop
+# job test - object oriented programming - flipkod
 
-Vrijeme izrade - 1h 15min.
+Production time: 1h 15min.
